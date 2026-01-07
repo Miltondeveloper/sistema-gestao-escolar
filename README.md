@@ -31,6 +31,11 @@ O sistema implementa uma lógica de segurança avançada que permite exceções 
 2.  **Negative Permissions (Blocklist):** Um administrador pode **bloquear explicitamente** uma permissão específica de um usuário, sobrescrevendo a regra do cargo.
     * *Cenário:* Um "Coordenador" pode gerenciar usuários, mas o "Coordenador Carlos" especificamente foi bloqueado dessa função temporariamente.
 
+
+![Welcome Laravel](./Img/welcome-laravel.png)
+![Dashboard Laravel](./Img/dashboard-laravel.png)
+![Permissões Laravel](./Img/permissoes-laravel.png)
+
 ## 🛠️ Instalação e Configuração
 
 ### Pré-requisitos
