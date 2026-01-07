@@ -70,4 +70,3 @@ O sistema implementa uma lógica de segurança avançada que permite exceções 
     * Terminal 2: `php artisan serve` (Laravel Server)
 
 ---
-*Este projeto é estritamente para fins educacionais e de portfólio.*
